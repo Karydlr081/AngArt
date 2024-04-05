@@ -996,7 +996,7 @@ a,a:hover
     border-radius: 30px;
     padding: 0 24px;
     color: var(--black-900);
-    background-color: #e8eee6;
+    background-color: #f3f7f2;
     transition: 0.5s ease;
 }
 .contact-form textarea.form-control
